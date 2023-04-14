@@ -1,2 +1,2 @@
 # TasksAston
-Код программы находится в 
+Код программы находится по пути src/main/fava/org/example
